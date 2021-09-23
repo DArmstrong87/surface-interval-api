@@ -1,7 +1,7 @@
 {
     "name": "surface-interval-api",
     "version": "1.0.0",
-    "description": "Simple Surface Interval json-server database to deploy to the cloud",
+    "description": "Simple json-server database to deploy to the cloud",
     "main": "server.js",
     "scripts": {
         "start": "node server.js"
