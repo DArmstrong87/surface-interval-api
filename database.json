@@ -1554,13 +1554,7 @@
       "dateIssued": "2017-08-27",
       "frontImageUrl": "https://res.cloudinary.com/surface-interval/image/upload/v1633299600/certCards/itzszda8yfscue2qvdfy.webp",
       "backImageUrl": "https://res.cloudinary.com/surface-interval/image/upload/v1633299609/certCards/jfv5bcego9rg3a40emyf.webp",
-      "id": 1
-    },
-    {
-      "name": "Rescue",
-      "dateIssued": "2021-09-14",
-      "imageUrl": "",
-      "id": 1
+      "id": 2
     }
   ],
   "diveImages": []
